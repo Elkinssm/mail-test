@@ -1,0 +1,7 @@
+<view class="data-container">
+  <text>{{nombre}}</text>
+  <text>{{apellido}}</text>
+  <text>{{DocumentNumber}}</text>
+  <text>{{DocumentType}}</text>
+  <text>{{email}}</text>
+</view>

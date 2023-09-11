@@ -1,0 +1,13 @@
+<view>
+  <button size="default" onTap="goMail" type="primary">sendEmail</button>
+  <button size="default" onTap="goMailTwo" type="primary">openUrl</button>
+</view>
+<view class="data-container">
+  <text>{{nombre}}</text>
+  <text>{{apellido}}</text>
+  <text>{{DocumentNumber}}</text>
+  <text>{{DocumentType}}</text>
+  <text>{{email}}</text>
+</view>
+
+<button size="default" type="primary" onTap="gotoPage">Button</button>
